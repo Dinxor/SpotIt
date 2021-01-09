@@ -1,0 +1,454 @@
+00Anchor\215_122_152_186_card13.bmp
+00Anchor\215_123_150_184_card46.bmp
+00Anchor\215_125_153_185_card8.bmp
+00Anchor\215_127_152_180_card4.bmp
+00Anchor\216_124_151_192_card50.bmp
+00Anchor\252_122_149_185_card32.bmp
+00Anchor\253_123_154_185_card36.bmp
+00Anchor\253_126_152_184_card43.bmp
+01Apple\250_193_71_221_card54.bmp
+01Apple\251_191_72_220_card38.bmp
+01Apple\251_191_73_222_card27.bmp
+01Apple\251_192_71_220_card17.bmp
+01Apple\251_192_71_222_card13.bmp
+01Apple\251_192_72_222_card53.bmp
+01Apple\252_191_74_220_card42.bmp
+01Apple\252_192_72_222_card52.bmp
+02Baby bottle\89_195_168_192_card46.bmp
+02Baby bottle\89_198_168_192_card22.bmp
+02Baby bottle\90_193_164_190_card15.bmp
+02Baby bottle\90_193_167_189_card18.bmp
+02Baby bottle\90_193_167_193_card3.bmp
+02Baby bottle\90_194_167_189_card38.bmp
+02Baby bottle\91_193_166_187_card6.bmp
+02Baby bottle\93_192_169_184_card16.bmp
+03Bomb\186_157_117_106_card44.bmp
+03Bomb\187_158_118_105_card34.bmp
+03Bomb\187_158_119_105_card1.bmp
+03Bomb\188_158_116_105_card7.bmp
+03Bomb\188_158_117_105_card46.bmp
+03Bomb\188_158_120_107_card53.bmp
+03Bomb\188_159_116_111_card10.bmp
+03Bomb\189_156_109_107_card55.bmp
+04Cactus\156_135_132_216_card18.bmp
+04Cactus\157_132_130_218_card26.bmp
+04Cactus\157_134_132_220_card27.bmp
+04Cactus\157_134_135_220_card25.bmp
+04Cactus\157_135_132_218_card8.bmp
+04Cactus\157_136_129_199_card55.bmp
+04Cactus\158_133_131_219_card21.bmp
+05Candle\93_189_178_119_card47.bmp
+05Candle\93_189_179_122_card15.bmp
+05Candle\93_189_181_123_card21.bmp
+05Candle\93_189_182_119_card1.bmp
+05Candle\93_190_181_110_card4.bmp
+05Candle\93_190_181_123_card17.bmp
+05Candle\93_190_184_123_card14.bmp
+05Candle\94_189_185_122_card39.bmp
+06Taxi car\218_181_112_154_card47.bmp
+06Taxi car\218_181_114_164_card50.bmp
+06Taxi car\219_180_118_159_card27.bmp
+06Taxi car\219_180_119_156_card29.bmp
+06Taxi car\219_181_113_157_card44.bmp
+06Taxi car\219_181_115_150_card6.bmp
+06Taxi car\219_181_117_157_card28.bmp
+06Taxi car\219_181_119_160_card23.bmp
+07Carrot\132_101_166_219_card3.bmp
+07Carrot\132_99_167_218_card40.bmp
+07Carrot\132_99_168_219_card27.bmp
+07Carrot\133_98_165_216_card45.bmp
+07Carrot\133_99_165_215_card43.bmp
+07Carrot\133_99_167_218_card34.bmp
+07Carrot\134_98_166_216_card24.bmp
+07Carrot\136_99_165_215_card39.bmp
+08Chess knight\152_132_138_133_card35.bmp
+08Chess knight\152_132_141_132_card21.bmp
+08Chess knight\152_132_142_130_card22.bmp
+08Chess knight\152_133_143_133_card52.bmp
+08Chess knight\153_131_144_132_card48.bmp
+08Chess knight\153_132_141_131_card9.bmp
+08Chess knight\153_133_140_131_card44.bmp
+08Chess knight\153_133_142_130_card43.bmp
+09Clock\253_200_157_188_card37.bmp
+09Clock\254_199_159_177_card16.bmp
+09Clock\254_200_152_184_card2.bmp
+09Clock\254_200_154_189_card49.bmp
+09Clock\255_200_155_186_card17.bmp
+09Clock\255_200_156_188_card23.bmp
+09Clock\255_200_157_186_card43.bmp
+09Clock\255_201_152_185_card55.bmp
+10Clown\237_187_154_157_card32.bmp
+10Clown\238_187_153_157_card2.bmp
+10Clown\239_187_159_159_card14.bmp
+10Clown\240_187_158_155_card28.bmp
+10Clown\240_190_155_154_card18.bmp
+10Clown\246_187_157_160_card35.bmp
+10Clown\246_188_156_156_card34.bmp
+10Clown\247_187_157_156_card54.bmp
+11Diasy flower\250_167_183_227_card50.bmp
+11Diasy flower\251_167_185_219_card1.bmp
+11Diasy flower\251_167_185_219_card37.bmp
+11Diasy flower\251_167_187_223_card35.bmp
+11Diasy flower\251_168_186_221_card38.bmp
+11Diasy flower\251_170_184_220_card24.bmp
+11Diasy flower\252_169_182_218_card19.bmp
+12Dinosaur\184_134_133_226_card40.bmp
+12Dinosaur\184_134_135_228_card13.bmp
+12Dinosaur\185_134_133_223_card16.bmp
+12Dinosaur\185_136_132_228_card20.bmp
+12Dinosaur\186_134_133_226_card14.bmp
+12Dinosaur\186_134_134_227_card5.bmp
+12Dinosaur\186_136_134_228_card44.bmp
+13Dolphin\133_100_246_228_card6.bmp
+13Dolphin\133_100_246_230_card7.bmp
+13Dolphin\133_100_247_231_card31.bmp
+13Dolphin\133_100_247_232_card21.bmp
+13Dolphin\133_100_248_232_card24.bmp
+13Dolphin\133_99_246_231_card13.bmp
+13Dolphin\134_100_247_232_card2.bmp
+13Dolphin\134_100_248_235_card41.bmp
+14Dragon\196_150_193_148_card31.bmp
+14Dragon\197_149_190_142_card47.bmp
+14Dragon\197_149_196_146_card8.bmp
+14Dragon\197_149_196_147_card34.bmp
+14Dragon\197_150_196_147_card9.bmp
+14Dragon\198_150_193_144_card38.bmp
+14Dragon\198_150_193_149_card49.bmp
+14Dragon\198_150_197_145_card5.bmp
+15Exclamation point\191_221_68_201_card30.bmp
+15Exclamation point\191_221_74_201_card42.bmp
+15Exclamation point\192_219_73_203_card21.bmp
+15Exclamation point\192_219_77_202_card34.bmp
+15Exclamation point\192_220_80_197_card33.bmp
+15Exclamation point\192_221_80_212_card50.bmp
+15Exclamation point\193_221_77_194_card16.bmp
+16Eye\134_153_206_177_card36.bmp
+16Eye\134_154_204_181_card31.bmp
+16Eye\135_154_206_179_card1.bmp
+16Eye\155_154_207_176_card18.bmp
+16Eye\156_103_209_183_card23.bmp
+16Eye\157_154_208_182_card52.bmp
+16Eye\158_155_210_183_card40.bmp
+17Fire\183_106_169_169_card30.bmp
+17Fire\183_106_174_170_card8.bmp
+17Fire\183_107_171_173_card35.bmp
+17Fire\183_107_174_171_card40.bmp
+17Fire\184_105_171_170_card17.bmp
+17Fire\184_106_172_171_card11.bmp
+17Fire\184_109_173_168_card6.bmp
+17Fire\185_108_174_175_card10.bmp
+18Four leaf clover\191_163_100_233_card38.bmp
+18Four leaf clover\192_161_100_227_card33.bmp
+18Four leaf clover\192_161_99_229_card28.bmp
+18Four leaf clover\192_162_101_228_card4.bmp
+18Four leaf clover\192_162_101_235_card41.bmp
+18Four leaf clover\192_162_99_229_card48.bmp
+18Four leaf clover\193_163_103_234_card40.bmp
+18Four leaf clover\195_164_102_202_card55.bmp
+19Ghost\118_162_250_222_card15.bmp
+19Ghost\118_162_250_223_card34.bmp
+19Ghost\118_162_250_224_card13.bmp
+19Ghost\118_163_249_223_card25.bmp
+19Ghost\119_162_250_223_card11.bmp
+19Ghost\119_162_250_223_card19.bmp
+19Ghost\119_162_250_224_card23.bmp
+19Ghost\119_162_251_223_card48.bmp
+20Green splats\182_176_87_246_card37.bmp
+20Green splats\183_180_84_246_card4.bmp
+20Green splats\184_175_88_245_card12.bmp
+20Green splats\184_177_88_245_card6.bmp
+20Green splats\186_184_84_249_card52.bmp
+20Green splats\210_179_86_246_card26.bmp
+20Green splats\211_181_86_245_card20.bmp
+20Green splats\214_175_88_245_card34.bmp
+21Hammer\127_100_175_205_card38.bmp
+21Hammer\127_100_176_207_card14.bmp
+21Hammer\127_101_172_204_card7.bmp
+21Hammer\128_100_173_204_card29.bmp
+21Hammer\128_100_173_206_card11.bmp
+21Hammer\128_100_174_205_card43.bmp
+21Hammer\128_100_175_207_card26.bmp
+22Heart\236_182_104_102_card14.bmp
+22Heart\236_182_92_98_card31.bmp
+22Heart\236_183_103_102_card46.bmp
+22Heart\237_181_102_96_card27.bmp
+22Heart\237_182_100_100_card51.bmp
+22Heart\237_182_96_98_card30.bmp
+22Heart\237_182_99_93_card48.bmp
+22Heart\238_182_99_97_card37.bmp
+23Ice cube\186_171_252_222_card46.bmp
+23Ice cube\187_170_251_221_card2.bmp
+23Ice cube\187_170_252_222_card45.bmp
+23Ice cube\188_169_252_220_card33.bmp
+23Ice cube\188_171_252_224_card52.bmp
+23Ice cube\189_170_251_221_card47.bmp
+23Ice cube\189_170_252_222_card11.bmp
+24Igloo\169_181_249_217_card9.bmp
+24Igloo\169_181_250_217_card42.bmp
+24Igloo\169_181_250_220_card45.bmp
+24Igloo\169_182_250_217_card36.bmp
+24Igloo\170_180_249_216_card6.bmp
+24Igloo\170_181_249_218_card19.bmp
+24Igloo\170_181_249_219_card14.bmp
+24Igloo\171_181_236_215_card55.bmp
+25Key\107_124_162_191_card22.bmp
+25Key\108_124_160_192_card31.bmp
+25Key\108_124_162_193_card20.bmp
+25Key\108_124_163_192_card39.bmp
+25Key\108_124_163_193_card54.bmp
+25Key\109_125_161_192_card11.bmp
+25Key\109_125_162_197_card50.bmp
+25Key\111_127_162_193_card55.bmp
+26Ladybird (Ladybug)\187_179_99_97_card51.bmp
+26Ladybird (Ladybug)\188_177_95_99_card35.bmp
+26Ladybird (Ladybug)\188_177_96_97_card3.bmp
+26Ladybird (Ladybug)\189_177_98_95_card47.bmp
+26Ladybird (Ladybug)\189_177_99_97_card12.bmp
+26Ladybird (Ladybug)\189_178_101_97_card13.bmp
+26Ladybird (Ladybug)\189_178_120_125_card55.bmp
+27Light bulb\161_169_158_214_card15.bmp
+27Light bulb\161_169_163_215_card54.bmp
+27Light bulb\161_169_163_218_card41.bmp
+27Light bulb\162_169_162_216_card45.bmp
+27Light bulb\162_169_163_215_card37.bmp
+27Light bulb\162_169_165_216_card8.bmp
+27Light bulb\162_170_161_216_card44.bmp
+28Lightning bolt\113_90_176_228_card12.bmp
+28Lightning bolt\113_90_179_231_card9.bmp
+28Lightning bolt\113_91_176_229_card11.bmp
+28Lightning bolt\113_91_177_228_card1.bmp
+28Lightning bolt\114_90_178_230_card27.bmp
+28Lightning bolt\114_91_176_227_card16.bmp
+28Lightning bolt\114_91_176_230_card32.bmp
+28Lightning bolt\114_91_179_231_card41.bmp
+29Lock\147_198_108_94_card53.bmp
+29Lock\147_198_110_105_card50.bmp
+29Lock\148_197_104_95_card2.bmp
+29Lock\148_197_110_95_card40.bmp
+29Lock\148_197_110_99_card51.bmp
+29Lock\148_198_103_96_card15.bmp
+29Lock\148_198_111_94_card26.bmp
+29Lock\148_198_111_96_card9.bmp
+30Maple leaf\248_160_111_115_card31.bmp
+30Maple leaf\248_160_122_115_card28.bmp
+30Maple leaf\248_162_115_114_card42.bmp
+30Maple leaf\249_160_118_122_card10.bmp
+30Maple leaf\249_161_111_114_card15.bmp
+30Maple leaf\249_161_118_118_card12.bmp
+30Maple leaf\249_163_120_115_card43.bmp
+31Moon\177_142_133_212_card39.bmp
+31Moon\177_142_133_213_card46.bmp
+31Moon\177_143_132_215_card35.bmp
+31Moon\177_143_133_213_card42.bmp
+31Moon\177_143_133_214_card23.bmp
+31Moon\177_143_134_215_card26.bmp
+31Moon\177_143_137_215_card5.bmp
+31Moon\177_143_137_216_card41.bmp
+32No Entry sign\254_200_98_102_card10.bmp
+32No Entry sign\255_199_101_99_card23.bmp
+32No Entry sign\255_200_100_98_card38.bmp
+32No Entry sign\255_200_105_107_card51.bmp
+32No Entry sign\255_200_98_103_card32.bmp
+32No Entry sign\255_200_98_98_card21.bmp
+32No Entry sign\255_201_101_98_card20.bmp
+32No Entry sign\255_201_101_99_card45.bmp
+33Orange scarecrow man\144_149_122_170_card3.bmp
+33Orange scarecrow man\144_149_123_167_card54.bmp
+33Orange scarecrow man\144_149_123_170_card9.bmp
+33Orange scarecrow man\145_149_119_165_card7.bmp
+33Orange scarecrow man\145_149_125_170_card23.bmp
+33Orange scarecrow man\145_150_121_170_card30.bmp
+33Orange scarecrow man\146_151_128_166_card4.bmp
+34Pencil\46_216_248_187_card33.bmp
+34Pencil\46_216_248_192_card15.bmp
+34Pencil\46_216_248_198_card27.bmp
+34Pencil\46_217_248_195_card49.bmp
+34Pencil\46_217_248_196_card35.bmp
+34Pencil\46_218_247_193_card20.bmp
+34Pencil\46_218_247_197_card36.bmp
+34Pencil\47_215_247_195_card7.bmp
+35Purple bird\216_167_199_156_card49.bmp
+35Purple bird\218_166_201_154_card45.bmp
+35Purple bird\218_166_202_156_card26.bmp
+35Purple bird\218_167_200_155_card13.bmp
+35Purple bird\218_167_202_154_card22.bmp
+35Purple bird\218_169_202_153_card28.bmp
+35Purple bird\219_165_194_148_card30.bmp
+35Purple bird\219_166_200_151_card1.bmp
+36Purple cat\194_146_197_151_card36.bmp
+36Purple cat\195_141_196_153_card37.bmp
+36Purple cat\196_139_195_152_card11.bmp
+36Purple cat\196_139_197_157_card21.bmp
+36Purple cat\196_139_200_156_card28.bmp
+36Purple cat\197_139_195_157_card3.bmp
+36Purple cat\197_139_198_152_card5.bmp
+36Purple cat\197_146_195_151_card53.bmp
+37Purple dobble hand man\185_142_195_155_card53.bmp
+37Purple dobble hand man\185_142_199_162_card25.bmp
+37Purple dobble hand man\185_144_197_156_card29.bmp
+37Purple dobble hand man\185_145_200_143_card16.bmp
+37Purple dobble hand man\186_142_198_158_card45.bmp
+37Purple dobble hand man\186_143_194_158_card31.bmp
+37Purple dobble hand man\186_144_199_154_card4.bmp
+37Purple dobble hand man\187_143_197_162_card35.bmp
+38Red lips\106_156_117_120_card10.bmp
+38Red lips\106_156_118_123_card50.bmp
+38Red lips\106_156_119_120_card41.bmp
+38Red lips\106_156_121_119_card52.bmp
+38Red lips\106_156_123_120_card14.bmp
+38Red lips\106_157_103_108_card49.bmp
+38Red lips\106_157_123_121_card25.bmp
+38Red lips\107_156_116_122_card3.bmp
+39Scissors\186_104_212_187_card3.bmp
+39Scissors\187_103_212_182_card29.bmp
+39Scissors\187_103_212_184_card42.bmp
+39Scissors\187_103_213_185_card1.bmp
+39Scissors\187_104_213_183_card8.bmp
+39Scissors\188_103_214_185_card20.bmp
+39Scissors\188_104_211_184_card2.bmp
+39Scissors\188_104_213_183_card48.bmp
+40Skull and crossbones\190_167_194_191_card19.bmp
+40Skull and crossbones\190_167_197_193_card27.bmp
+40Skull and crossbones\190_167_198_192_card4.bmp
+40Skull and crossbones\191_167_192_192_card2.bmp
+40Skull and crossbones\191_168_194_194_card10.bmp
+40Skull and crossbones\191_168_197_194_card22.bmp
+40Skull and crossbones\191_168_199_196_card5.bmp
+41Snowflake\229_125_236_216_card24.bmp
+41Snowflake\230_120_234_215_card11.bmp
+41Snowflake\230_120_236_216_card44.bmp
+41Snowflake\230_121_235_215_card42.bmp
+41Snowflake\231_121_236_218_card49.bmp
+41Snowflake\232_119_235_212_card18.bmp
+41Snowflake\232_119_235_216_card51.bmp
+41Snowflake\232_119_236_214_card4.bmp
+42Snowman\159_148_246_224_card6.bmp
+42Snowman\159_148_246_229_card49.bmp
+42Snowman\162_149_247_229_card39.bmp
+42Snowman\163_149_245_227_card32.bmp
+42Snowman\172_156_245_226_card48.bmp
+42Snowman\181_164_245_225_card53.bmp
+43Spider\226_100_184_179_card47.bmp
+43Spider\227_103_185_179_card7.bmp
+43Spider\227_93_186_179_card25.bmp
+43Spider\227_94_186_179_card40.bmp
+43Spider\227_97_185_178_card42.bmp
+43Spider\227_98_187_180_card22.bmp
+43Spider\228_94_184_179_card32.bmp
+43Spider\229_94_185_177_card37.bmp
+44Spiders web\241_137_236_214_card19.bmp
+44Spiders web\242_137_234_211_card30.bmp
+44Spiders web\242_137_235_213_card47.bmp
+44Spiders web\242_137_237_212_card18.bmp
+44Spiders web\243_136_237_214_card20.bmp
+44Spiders web\244_137_237_216_card41.bmp
+44Spiders web\245_137_235_211_card43.bmp
+44Spiders web\245_137_236_213_card53.bmp
+45Sun\236_112_162_226_card8.bmp
+45Sun\236_113_162_228_card51.bmp
+45Sun\237_112_159_225_card19.bmp
+45Sun\237_113_160_224_card7.bmp
+45Sun\237_113_161_226_card39.bmp
+45Sun\237_114_162_223_card16.bmp
+45Sun\237_114_162_228_card52.bmp
+45Sun\238_112_163_227_card28.bmp
+46Sunglasses\100_191_95_81_card52.bmp
+46Sunglasses\101_189_85_83_card55.bmp
+46Sunglasses\101_189_90_82_card15.bmp
+46Sunglasses\101_190_95_78_card29.bmp
+46Sunglasses\101_190_96_79_card24.bmp
+46Sunglasses\101_191_89_80_card30.bmp
+46Sunglasses\102_189_97_87_card32.bmp
+46Sunglasses\102_190_99_78_card5.bmp
+47Target\248_173_158_161_card31.bmp
+47Target\253_168_160_159_card19.bmp
+47Target\253_170_159_165_card3.bmp
+47Target\253_170_162_165_card17.bmp
+47Target\253_171_162_161_card26.bmp
+47Target\254_169_160_163_card32.bmp
+47Target\254_170_160_162_card44.bmp
+47Target\254_170_166_153_card33.bmp
+48Tortoise\140_179_95_228_card33.bmp
+48Tortoise\140_179_95_233_card10.bmp
+48Tortoise\140_179_97_232_card9.bmp
+48Tortoise\140_180_94_228_card18.bmp
+48Tortoise\140_180_94_231_card37.bmp
+48Tortoise\140_180_96_231_card39.bmp
+48Tortoise\141_179_96_231_card13.bmp
+48Tortoise\141_179_96_231_card29.bmp
+49Treble clef\95_143_136_171_card48.bmp
+49Treble clef\95_144_133_171_card7.bmp
+49Treble clef\95_144_135_173_card12.bmp
+49Treble clef\95_144_136_176_card45.bmp
+49Treble clef\96_143_137_174_card5.bmp
+49Treble clef\96_144_135_174_card17.bmp
+49Treble clef\96_144_138_173_card18.bmp
+49Treble clef\96_146_134_183_card50.bmp
+50Tree\197_146_118_212_card33.bmp
+50Tree\197_146_118_216_card24.bmp
+50Tree\197_146_118_219_card22.bmp
+50Tree\197_146_120_220_card14.bmp
+50Tree\197_147_118_219_card23.bmp
+50Tree\197_149_119_217_card12.bmp
+50Tree\198_147_118_216_card8.bmp
+50Tree\198_148_117_217_card53.bmp
+51Water drip\188_168_241_213_card36.bmp
+51Water drip\188_168_242_218_card10.bmp
+51Water drip\188_168_243_216_card26.bmp
+51Water drip\188_168_243_216_card54.bmp
+51Water drip\189_168_243_210_card16.bmp
+51Water drip\189_168_243_216_card48.bmp
+51Water drip\189_168_244_218_card24.bmp
+51Water drip\190_168_242_215_card47.bmp
+52Dog\227_164_107_203_card20.bmp
+52Dog\227_165_110_203_card17.bmp
+52Dog\228_164_106_200_card9.bmp
+52Dog\228_164_107_200_card28.bmp
+52Dog\229_163_111_203_card25.bmp
+52Dog\229_165_107_200_card46.bmp
+52Dog\229_165_109_201_card24.bmp
+53Yin and Yang\252_201_137_131_card12.bmp
+53Yin and Yang\253_200_138_127_card39.bmp
+53Yin and Yang\253_200_138_129_card38.bmp
+53Yin and Yang\253_200_140_131_card25.bmp
+53Yin and Yang\254_200_134_128_card30.bmp
+53Yin and Yang\254_200_136_127_card44.bmp
+53Yin and Yang\254_200_140_126_card36.bmp
+53Yin and Yang\255_200_132_128_card2.bmp
+54Zebra\161_145_182_178_card21.bmp
+54Zebra\161_146_181_175_card19.bmp
+54Zebra\161_146_183_177_card54.bmp
+54Zebra\162_144_180_177_card12.bmp
+54Zebra\162_145_183_177_card29.bmp
+54Zebra\162_146_180_179_card49.bmp
+54Zebra\162_146_184_178_card40.bmp
+54Zebra\163_144_182_177_card46.bmp
+55Question mark\236_174_89_215_card36.bmp
+55Question mark\237_174_92_222_card17.bmp
+55Question mark\237_174_92_224_card34.bmp
+55Question mark\237_174_93_224_card51.bmp
+55Question mark\237_174_93_225_card22.bmp
+55Question mark\237_175_95_225_card29.bmp
+55Question mark\238_173_91_226_card41.bmp
+56Cheese\217_199_79_192_card33.bmp
+56Cheese\218_199_71_189_card6.bmp
+56Cheese\218_199_72_198_card51.bmp
+56Cheese\218_199_73_195_card54.bmp
+56Cheese\218_199_76_198_card25.bmp
+56Cheese\218_199_77_197_card5.bmp
+56Cheese\219_199_69_190_card1.bmp
+56Cheese\219_199_71_194_card43.bmp
+57Green Dot\171_194_76_216_card29.bmp
+57Green Dot\171_196_69_210_card17.bmp
+57Green Dot\171_198_64_213_card41.bmp
+57Green Dot\173_197_65_202_card36.bmp
+57Green Dot\173_198_67_213_card22.bmp
+57Green Dot\179_199_69_211_card34.bmp
+57Green Dot\180_197_72_214_card51.bmp
+58Yellow Dot\196_203_77_192_card16.bmp
+58Yellow Dot\197_199_84_203_card42.bmp
+58Yellow Dot\197_204_77_202_card34.bmp
+58Yellow Dot\197_204_83_211_card50.bmp
+58Yellow Dot\198_200_76_203_card21.bmp
+58Yellow Dot\198_202_70_200_card30.bmp
+58Yellow Dot\201_201_82_194_card33.bmp
